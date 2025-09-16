@@ -1,0 +1,68 @@
+Bulli Raju Miriyala
+Location: Pithapuram, Andhra Pradesh Email: bullirajumiriyala143@gmail.com
+Phone: +91 8247429851 Linkedin:linkedin.com/in/myprofile
+Objective
+Motivated Computer Science student with strong skills in Python, web development, and problemsolving, seeking to contribute to technology-driven solutions in a globally recognized, innovationfocused organization. Passionate about continuous learning, user-centric development, and growing in both technical and product management roles within a collaborative and dynamic environment.
+Education
+• Bachelor of Technology(2022-2026)
+Rajiv Gandhi University of Knowledge Technologies (RGUKT), Andhra Pradesh
+CGPA: 8.7 (Currently Pursuing)
+• Pre University(2020-2022)
+Rajiv Gandhi University of Knowledge Technologies
+CGPA: 9.63
+• Secondary School Certification(2019-2020)
+Z.P.H SCHOOL, Virava
+CGPA: 10.00
+Technical Skills
+• Web Technologies: HTML, CSS, Bootstrap, JavaScript
+• Databases: SQLite
+• Programming Languages: Python, Java, C
+• Other Skills: Problem Solving, Data Structures, Team Management, Operating Systems
+• Development Tools: Visual Studio
+• Soft Skills: Communication, Public Speaking (Anchoring), Managing Skills, Leadership
+Projects
+Security and Privacy of Chatbots (Ongoing):
+• Conducted an extensive study by visiting 279 websites, identifying 100 healthcare chatbots
+across 20 specializations, and classifying them into rule-based and AI-based systems.
+• Analyzed the types of data collected by chatbots, including sensitive information, and evaluated
+the services provided such as appointment scheduling and drug suggestions.
+• Currently researching potential attacks on healthcare chatbots, testing security vulnerabilities,
+and developing privacy-preserving solutions.Stored and organized data for further analysis, contributing to the development of effective security frameworks to protect user privacy and data.
+Stock Market Prediction (Data Science with Python Project):
+• Built a predictive model for stock market trends using Data Science techniques with Python.
+• Analyzed historical stock data and applied machine learning models to enhance prediction accuracy and future trend analysis.itemize
+• Developed algorithms for real-time stock value predictions, improving model precision.
+1
+
+Web Application Development:
+• Developed a fully functional web application using HTML, CSS, JavaScript, and Bootstrap for
+responsive design and enhanced user experience.
+• Implemented dynamic content, interactive features, and custom styles to improve the overall
+usability and interface functionality.
+• Integrated various user interface elements to ensure seamless performance across devices.
+Certifications & Achievements
+• Programming, Data Structures, and Algorithms using Python (NPTEL, Jul-Sep
+2024)
+Successfully completed an 8-week course covering Python programming, data structures, and
+algorithmic problem-solving, gaining expertise in efficient coding techniques and algorithm implementation.
+• Soft Skills: Develop Interpersonal Skills (IBM, edX - April 2024)
+Enhanced communication, teamwork, problem-solving, and leadership skills essential for professional and collaborative work environments.
+• LeetCode Problems
+Solved 130+ problems on LeetCode and earned 100 days badge, strengthening problem-solving
+abilities and deepening knowledge in algorithms and data structures.Consistently ranked in the
+top percentage of solvers, showcasing strong analytical and coding skills.
+Experience
+• Event Head -Technical & Cultural Fest As Event Head for the university’s cultural fest,
+I took ownership of planning and executing a range of events, leading a team of volunteers to
+ensure seamless operations. I was responsible for managing logistics, budgeting, and fostering
+collaboration between sponsors, faculty, and participants. My leadership and attention to detail
+contributed to the overall success and positive reception of the fest.
+• Anchor – University Events As an anchor for university events, I hosted and coordinated
+various programs, ensuring smooth transitions and keeping the audience engaged throughout.
+I worked closely with event organizers to align content and manage the event flow effectively.
+My communication skills and energy contributed to the success and positive reception of each
+event.Strong foundation in problem-solving and data structures.
+
+2
+
+
